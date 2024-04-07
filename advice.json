@@ -1,0 +1,287 @@
+{
+    "Fungal Infection": {
+      "advice": "Keep the affected area clean and dry. Avoid sharing personal items. Wear breathable fabrics.",
+      "medications": ["antifungal creams", "oral antifungals"]
+    },
+    "Allergy": {
+      "advice": "Avoid known allergens and keep your environment clean to minimize exposure.",
+      "medications": ["loratadine", "cetirizine"]
+    },
+    "GERD": {
+      "advice": "Eat smaller meals, avoid lying down immediately after eating, and reduce intake of fatty foods, caffeine, and alcohol.",
+      "medications": ["antacids", "ranitidine", "omeprazole"]
+    },
+    "Chronic Cholestasis": {
+      "advice": "Follow a low-fat diet, avoid alcohol, and manage itching by keeping the skin cool and moisturized.",
+      "medications": ["ursodeoxycholic acid"]
+    },
+    "Drug Reaction": {
+      "advice": "Discontinue the offending drug under medical supervision. Avoid re-exposure to the drug.",
+      "medications": ["antihistamines", "corticosteroids"]
+    },
+    "Peptic Ulcer Disease": {
+      "advice": "Avoid foods and beverages that irritate the stomach lining. Quit smoking and reduce stress.",
+      "medications": ["proton pump inhibitors", "H2-receptor antagonists"]
+    },
+    "AIDS": {
+      "advice": "Follow a healthy diet, get regular exercise, and avoid exposure to infections.",
+      "medications": ["antiretroviral therapy (ART)"]
+    },
+    "Diabetes": {
+      "advice": "Maintain a healthy diet, regular physical activity, and monitor blood glucose levels.",
+      "medications": ["insulin", "metformin"]
+    },
+    "Gastroenteritis": {
+      "advice": "Stay hydrated. Rest and consume a bland diet as tolerated.",
+      "medications": ["oral rehydration salts", "antiemetic medications"]
+    },
+    "Bronchial Asthma": {
+      "advice": "Avoid triggers, such as allergens and smoke. Use an air purifier.",
+      "medications": ["inhaled corticosteroids", "beta agonists"]
+    },
+    "Hypertension": {
+      "advice": "Regular physical activity, maintaining a healthy weight, limiting alcohol, and eating a diet rich in fruits and vegetables can help manage blood pressure.",
+      "medications": ["ACE inhibitors", "calcium channel blockers"]
+    },
+    "Migraine": {
+      "advice": "Avoid triggers, maintain a regular sleep schedule, and stay hydrated.",
+      "medications": ["NSAIDs", "triptans"]
+    },
+    "Cervical Spondylosis": {
+      "advice": "Maintain good posture, stay active, and do neck-strengthening exercises.",
+      "medications": ["pain relievers", "muscle relaxants"]
+    },
+    "Paralysis (Brain Hemorrhage)": {
+      "advice": "Rehabilitation therapy is critical for recovery. Follow a healthy lifestyle to prevent further incidents.",
+      "medications": ["anticoagulants (in some cases)", "blood pressure medication"]
+    },
+    "Jaundice": {
+      "advice": "Rest, drink fluids, and eat healthy foods. Avoid alcohol and unnecessary medications.",
+      "medications": ["Depending on the underlying cause: antivirals, antibiotics, or other specific treatments"]
+    },
+    "Malaria": {
+      "advice": "Use mosquito repellent and sleep under insecticide-treated mosquito nets.",
+      "medications": ["antimalarial drugs"]
+    },
+    "Chicken Pox": {
+      "advice": "Stay hydrated and rest. Use calamine lotion for itching.",
+      "medications": ["antihistamines for itching", "paracetamol for fever"]
+    },
+    "Dengue": {
+      "advice": "Rest, drink plenty of fluids, and take paracetamol for pain and fever. Avoid aspirin.",
+      "medications": ["pain relievers", "rehydration therapy"]
+    },
+    "Typhoid": {
+      "advice": "Maintain hydration and eat a healthy diet. Follow good hygiene practices.",
+      "medications": ["antibiotics"]
+    },
+    "Hepatitis A": {
+      "advice": "Rest, eat a well-balanced diet, and avoid alcohol. Practice good hygiene.",
+      "medications": ["vaccination post-exposure, rest, and hydration"]
+    },
+    "Hepatitis B": {
+      "advice": "Maintain a healthy diet, avoid alcohol, and monitor liver function regularly.",
+      "medications": ["antiviral medications"]
+    },
+    "Hepatitis C": {
+      "advice": "Avoid alcohol and follow a healthy lifestyle. Regular monitoring of liver function.",
+      "medications": ["direct-acting antivirals"]
+    },
+    "Hepatitis D": {
+      "advice": "Avoid alcohol and ensure a balanced diet. Hepatitis B vaccination is also recommended.",
+      "medications": ["peginterferon alpha"]
+    },
+    "Hepatitis E": {
+      "advice": "Maintain hydration and follow good personal hygiene practices.",
+      "medications": ["Rest and hydration; no specific treatment required"]
+    },
+    "Alcoholic Hepatitis": {
+      "advice": "Abstain from alcohol, eat a healthy diet, and consider joining a support group.",
+      "medications": ["corticosteroids", "pentoxifylline"]
+    },
+    "Tuberculosis": {
+      "advice": "Ensure good ventilation in living spaces, wear a mask if you're infectious, and follow a nutritious diet.",
+      "medications": ["antibiotics for a long duration"]
+    },
+    "Common Cold": {
+      "advice": "Stay well-hydrated, rest, and keep warm. Using a humidifier can help relieve congestion and lubricate your throat.",
+      "medications": ["acetaminophen", "ibuprofen", "pseudoephedrine"]
+    },
+    "Pneumonia": {
+      "advice": "Rest, stay hydrated, and avoid smoking. Keep warm and avoid cold environments.",
+      "medications": ["antibiotics", "antipyretics", "cough medicine"]
+    },
+    "Dimorphic Hemorrhoids (Piles)": {
+      "advice": "Eat a high-fiber diet, drink plenty of fluids, and use over-the-counter hemorrhoid creams.",
+      "medications": ["pain relievers", "topical treatments"]
+    },
+    "Heart Attack": {
+      "advice": "Follow a heart-healthy diet, exercise regularly, and avoid smoking. Monitor blood pressure and cholesterol.",
+      "medications": ["aspirin", "blood thinners", "beta-blockers"]
+    },
+    "Varicose Veins": {
+      "advice": "Exercise regularly, elevate your legs when resting, and avoid standing or sitting for long periods.",
+      "medications": ["compression stockings", "sclerotherapy or surgery in severe cases"]
+    },
+    "Hypothyroidism": {
+      "advice": "Take thyroid hormone replacement as prescribed. Maintain a balanced diet and regular exercise.",
+      "medications": ["levothyroxine"]
+    },
+    "Hypoglycemia": {
+      "advice": "Eat small, frequent meals throughout the day. Carry a source of fast-acting glucose.",
+      "medications": ["glucose tablets", "injectable glucagon for emergencies"]
+    },
+    "Osteoarthritis": {
+      "advice": "Maintain a healthy weight, stay active, and use heat or cold therapy to ease pain.",
+      "medications": ["NSAIDs", "acetaminophen"]
+    },
+    "Arthritis": {
+      "advice": "Engage in regular physical activity, maintain a healthy weight, and use hot or cold therapy to reduce pain.",
+      "medications": ["anti-inflammatory drugs", "DMARDs for rheumatoid arthritis"]
+    },
+    "Vertigo (Paroxysmal Positional Vertigo)": {
+      "advice": "Perform specific head and neck movements known as Epley or Semont maneuvers. Avoid sudden head movements.",
+      "medications": ["meclizine", "diazepam"]
+    },
+    "Acne": {
+      "advice": "Gently clean the skin with mild soap, avoid excessive washing and touching your face, and use non-comedogenic products.",
+      "medications": ["benzoyl peroxide", "salicylic acid"]
+    },
+    "Urinary Tract Infection (UTI)": {
+      "advice": "Increase fluid intake, particularly water, to help flush out bacteria from the urinary system.",
+      "medications": ["antibiotics"]
+    },
+    "Psoriasis": {
+      "advice": "Keep your skin moisturized. Avoid triggers that can cause flare-ups, such as stress and smoking.",
+      "medications": ["topical treatments", "light therapy", "systemic medications"]
+    },
+    "Impetigo": {
+      "advice": "Keep the infected area clean and covered. Avoid scratching or touching the sores.",
+      "medications": ["antibiotic ointment", "oral antibiotics for more severe cases"]
+    },
+    "COVID-19": {
+      "advice": "Wear masks in crowded places, maintain social distancing, and practice good hand hygiene. Vaccination is recommended.",
+      "medications": ["symptomatic treatment", "antiviral drugs for severe cases"]
+    },
+    "Color Blindness": {
+      "advice": "There's no cure, but visual aids like colored filters or lenses can help manage the condition.",
+      "medications": []
+    },
+    "Refractive Errors": {
+      "advice": "Regular eye examinations. Use prescribed glasses or contact lenses. Consider refractive surgery for a permanent solution.",
+      "medications": []
+    },
+    "Age-Related Macular Degeneration": {
+      "advice": "Regular eye exams, maintain a healthy lifestyle, and consider taking specific dietary supplements.",
+      "medications": ["anti-VEGF injections", "laser therapy"]
+    },
+    "Cataract": {
+      "advice": "Regular eye exams and use of sunglasses to protect eyes from UV light. Surgery is the only effective treatment.",
+      "medications": []
+    },
+    "Diabetic Retinopathy": {
+      "advice": "Control blood sugar, blood pressure, and cholesterol levels. Regular eye exams are essential.",
+      "medications": ["laser treatment", "VEGF inhibitor injections"]
+    },
+    "Glaucoma": {
+      "advice": "Regular eye exams. Use prescribed eye drops to reduce eye pressure. Surgery may be necessary.",
+      "medications": ["eye drops to reduce pressure", "oral medications"]
+    },
+    "Amblyopia": {
+      "advice": "Use of corrective lenses, eye patches, or vision therapy exercises to improve visual acuity.",
+      "medications": []
+    },
+    "Strabismus": {
+      "advice": "Eye exercises, glasses, or surgery may be recommended to align the eyes properly.",
+      "medications": []
+    },
+    "Bladder Cancer": {
+      "advice": "Follow up with regular cystoscopies. Avoid tobacco. Stay hydrated.",
+      "medications": ["chemotherapy", "immunotherapy", "surgical treatments"]
+    },
+    "Breast Cancer": {
+      "advice": "Maintain a healthy lifestyle, reduce alcohol intake, and perform regular self-exams. Follow prescribed treatment plans.",
+      "medications": ["hormone therapy", "chemotherapy", "targeted therapy"]
+    },
+    "Colorectal Cancer": {
+      "advice": "Eat a diet high in fruits, vegetables, and fiber. Get regular screenings as recommended.",
+      "medications": ["chemotherapy", "radiation therapy", "surgery"]
+    },
+    "Kidney Cancer": {
+      "advice": "Follow a healthy lifestyle and avoid exposure to toxins. Surgery is the primary treatment.",
+      "medications": ["targeted therapy", "immunotherapy"]
+    },
+    "Lung Cancer - Non-Small Cell": {
+      "advice": "Avoid smoking and exposure to secondhand smoke and pollutants. Follow the treatment plan closely.",
+      "medications": ["chemotherapy", "radiation therapy", "surgical resection"]
+    },
+    "Lymphoma - Non-Hodgkin": {
+      "advice": "Maintain a balanced diet and regular exercise. Follow the treatment plan provided by your healthcare provider.",
+      "medications": ["chemotherapy", "radiation therapy", "immunotherapy"]
+    },
+    "Melanoma": {
+      "advice": "Protect your skin from UV radiation. Perform regular skin checks and follow up on any changes.",
+      "medications": ["surgery", "immunotherapy", "targeted therapy"]
+    },
+    "Oral and Oropharyngeal Cancer": {
+      "advice": "Avoid tobacco and excessive alcohol use. Maintain good oral hygiene.",
+      "medications": ["surgery", "radiation therapy", "chemotherapy"]
+    },
+    "Dental Caries (Tooth Decay)": {
+      "advice": "Maintain good oral hygiene, reduce sugary food intake, and visit the dentist regularly for check-ups.",
+      "medications": ["fluoride treatments", "fillings or crowns for cavities"]
+    },
+    "Periodontal (Gum) Disease": {
+      "advice": "Brush and floss daily. Regular dental cleanings and check-ups.",
+      "medications": ["antibacterial mouthwash", "antibiotics for severe cases"]
+    },
+    "Edentulism (Total Tooth Loss)": {
+      "advice": "Consider dental implants or dentures. Maintain good oral hygiene to protect remaining oral structures.",
+      "medications": []
+    },
+    "Cleft Lip and Palate": {
+      "advice": "Surgical intervention is usually required. Speech therapy may be necessary.",
+      "medications": []
+    },
+    "Oro-Dental Trauma": {
+      "advice": "Protect teeth during sports and recreational activities. Seek immediate dental care for injuries.",
+      "medications": []
+    },
+    "Noma": {
+      "advice": "Immediate medical treatment is necessary. Maintain good oral hygiene and nutrition.",
+      "medications": ["antibiotics", "nutritional support", "surgical reconstruction"]
+    },
+    "Acoustic Neuroma": {
+      "advice": "Regular monitoring and avoiding exposure to loud noises. Surgical or non-surgical treatments based on size and symptoms.",
+      "medications": ["surgery", "radiation therapy"]
+    },
+    "Deafness": {
+      "advice": "Use hearing aids or cochlear implants as recommended. Protect ears from loud noises.",
+      "medications": []
+    },
+    "Earache": {
+      "advice": "Keep the ear dry and avoid inserting objects. Use over-the-counter pain relief if necessary.",
+      "medications": ["analgesics", "antibiotics for infections"]
+    },
+    "Ear Infection": {
+      "advice": "Avoid water from entering the ear. Use warm compresses for relief.",
+      "medications": ["antibiotics", "pain relievers"]
+    },
+    "Ear Wax": {
+      "advice": "Avoid using cotton swabs inside the ear. Use over-the-counter drops to soften the wax.",
+      "medications": ["ear drops", "manual removal by a professional if necessary"]
+    },
+    "Fluid from the Ear": {
+      "advice": "Keep the ear dry and clean. Avoid inserting anything into the ear canal.",
+      "medications": ["antibiotics if infection is present"]
+    },
+    "Glue Ear": {
+      "advice": "Most cases resolve on their own. Avoid smoke and allergens. Surgery may be necessary for persistent cases.",
+      "medications": ["autoinflation", "surgical intervention for severe cases"]
+    },
+    "Hearing Loss": {
+      "advice": "Use hearing protection in noisy environments. Consider using hearing aids or other assistive devices.",
+      "medications": []
+    }
+  }
+  
