@@ -3,8 +3,11 @@ from predict import DiseaseDetector
 from symptoms import gui_symptoms, model_symptoms
 import pickle
 import json
+from flask_cors import CORS
+import os
 
 app = Flask(__name__)
+CORS(app)
 
 model_path = "v2/decision_tree-v2.pkl"
 
@@ -48,5 +51,7 @@ def detect_disease():
     full_message = f"The disease detected was {disease}. Advice: {advice} OTC Medications: {medications}"
 
     return jsonify({"message": full_message}), 200
+
 if __name__ == "__main__":
-    app.run()
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
